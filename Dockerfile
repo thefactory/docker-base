@@ -5,4 +5,4 @@
 FROM debian:wheezy
 MAINTAINER Mike Babineau mike@thefactory.com
 
-RUN apt-get update --fix-missing
+RUN apt-get update
